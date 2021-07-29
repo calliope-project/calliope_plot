@@ -1,0 +1,3 @@
+plotly >= 3.10, < 3.11
+jinja2
+calliope >= 0.6, < 0.7
